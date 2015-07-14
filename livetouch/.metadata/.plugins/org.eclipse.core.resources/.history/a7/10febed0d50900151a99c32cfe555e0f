@@ -1,0 +1,9 @@
+package info.androidhive.androidvideostreaming;
+
+public class AppConfig {
+	public static final String STREAM_URL = "// Original video size, in our case 640px / 360px
+private float mVideoWidth;
+private float mVideoHeight;";
+	//public static final String PUBLISHER_USERNAME = "ravi";
+	//public static final String PUBLISHER_PASSWORD = "passtemp";
+}

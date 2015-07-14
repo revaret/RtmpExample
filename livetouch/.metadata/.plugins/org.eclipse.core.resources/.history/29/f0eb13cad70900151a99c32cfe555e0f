@@ -1,0 +1,7 @@
+package info.androidhive.androidvideostreaming;
+
+public class AppConfig {
+	public static final String STREAM_URL = " rtmp://54.166.143.92:1935/vod/mp4:livetouch-demo-2-small.mp4";
+	//public static final String PUBLISHER_USERNAME = "ravi";
+	//public static final String PUBLISHER_PASSWORD = "passtemp";
+}

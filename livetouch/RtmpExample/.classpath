@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="/InitActivity"/>
+	<classpathentry kind="lib" path="/home/ranjith/android/android-sdk-linux/platforms/android-19/android.jar" sourcepath="/home/ranjith/android/android-sdk-linux/sources/android-19">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/ranjith/android/android-sdk-linux/docs/reference"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ranjith/android/android-sdk-linux/platforms/android-21/android.jar" sourcepath="/home/ranjith/android/android-sdk-linux/sources/android-21">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/ranjith/android/android-sdk-linux/docs/reference"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v7-appcompat"/>
+	<classpathentry kind="lib" path="/InitActivity/libs/vitamio.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

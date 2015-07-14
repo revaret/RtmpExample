@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.example.androidmediaplayer.as.java&apos; to &apos;ScalableVideoView.java&apos;&#x0A;- Original project: &apos;AndroidMediaPlayer&apos;&#x0A;- Original element: &apos;com.example.androidmediaplayer.as.java&apos;&#x0A;- Renamed element: &apos;com.example.androidmediaplayer.ScalableVideoView.java&apos;" description="Rename compilation unit &apos;as.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.example.androidmediaplayer{as.java" name="ScalableVideoView.java" references="false" stamp="1433332126546" version="1.0"/>
+</session>
